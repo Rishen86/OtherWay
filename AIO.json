@@ -19,10 +19,10 @@
   "pack_irc" : "",
   "pe1_irc" : 600,
   "pe2_irc" : 630,
-  "status_irc" : true,
+  "status_irc" : false,
 
   "note" : "IRCBAN",
-  "is_active_ircban" : true,
+  "is_active_ircban" : false,
   "top_banner_ircban" : true,
   "time_interval_ircban" : 6000,
   "time_after_load_ircban" : 700,
